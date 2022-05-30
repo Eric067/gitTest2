@@ -6,6 +6,6 @@
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("hot-fix04");
+        System.out.println("hot-fix05");
     }
 }
