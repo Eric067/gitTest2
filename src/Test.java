@@ -6,6 +6,6 @@
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("mastet01");
+        System.out.println("mastet02");
     }
 }
